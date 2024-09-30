@@ -1,3 +1,5 @@
+# Original repo found at https://github.com/Bentley-Cellular-Adaptive-Behaviour-Lab/NeuralCrestCpp. Any further changes I have made to this or other models are part of unpublished work and not available publicly.
+
 # NeuralCrest
 
 Compile with `make`.
